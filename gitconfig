@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = noelfeisst@yahoo.com
+	name = Noel Feisst
